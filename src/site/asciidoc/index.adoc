@@ -1,0 +1,3 @@
+== Introduction
+
+this project simply holds all my blogs.

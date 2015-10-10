@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<project>
+  <body>
+    <menu ref="reports"/>
+    <menu name="Overview">
+      <item name="index" href="index.html"/>
+      <item name="Copy Paste Safe Logger" href="2015-10-06-CopyPaste-safe-Loggers.html"/>
+      <item name="Environment-Specific Configuration Management" href="2015-10-07-Environment-Configuration-Management-in-Maven.html"/>
+      <item name="Generic Mapper for Arrays in Java" href="2015-10-07-Generic-Mapper-for-Arrays-In-Java.html"/>
+    </menu>
+  </body>
+</project>
